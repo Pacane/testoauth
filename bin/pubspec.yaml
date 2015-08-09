@@ -1,0 +1,15 @@
+name: 'testoauth_backend'
+version: 0.0.1
+description: A web server built using the shelf package.
+#author: Your Name <email@example.com>
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  redstone: any
+  shelf: any
+  googleapis: "^0.13.0"
+  googleapis_auth: "^0.2.3+1"
+  http: any
